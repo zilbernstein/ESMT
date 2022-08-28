@@ -1,0 +1,1455 @@
+28.11 22:22:57:       Rows was return: 15227
+
+28.11 22:22:57: [WEB-01 - OPEN] SMT.NSI_PKG.NSI_PEREG_CUR
+o_cur = [inout]
+
+28.11 22:23:01:       Rows was return: 5919
+
+28.11 22:23:01: [WEB-01 - OPEN] SMT.NSI_PKG.EQ_MFR_CUR
+o_cur = [inout]
+
+28.11 22:23:05:       Rows was return: 299
+
+28.11 22:23:05: [WEB-01 - OPEN] SMT.SMT_REPORT_PKG.FIRM_TREE_CUR
+p_id_user = 8458 [in], p_code_object = aIncident [in], o_cur = [inout]
+
+28.11 22:23:06:       Rows was return: 276
+
+28.11 22:23:06: [WEB-01 - OPEN] SMT.SMT_NSI_PKG.NSI_ENTER_DEPOT_REASON_CUR
+o_cur = [inout]
+
+28.11 22:23:07:       Rows was return: 21
+
+28.11 22:23:07: [WEB-01 - OPEN] SMT.NSI_PKG.KASANT_STATE_SAFETY_CUR
+o_cur = [inout]
+
+28.11 22:23:07:       Rows was return: 727
+
+28.11 22:23:07: [WEB-01 - OPEN] SMT.NSI_PKG.TCHR_FULL_LIST_CUR
+o_cur = [inout]
+
+28.11 22:23:10:       Rows was return: 265
+
+28.11 22:23:10: [WEB-01 - OPEN] SMT.NSI_PKG.TCHR_LIST_CUR
+p_id_user = 8458 [in], p_code_object = aIncident [in], o_cur = [inout]
+
+28.11 22:23:11:       Rows was return: 266
+
+28.11 22:23:11: [WEB-01 - OPEN] SMT.NSI_PKG.EQ_AGG_TYPE_CUR
+o_cur = [inout]
+
+28.11 22:23:11:       Rows was return: 101
+
+28.11 22:23:16: [WEB-01 - OPEN] SMT.SMT_NSI_PKG.FTP_SETTINGS_CUR
+o_cur = [inout]
+
+28.11 22:23:19:       Rows was return: 1
+
+28.11 22:23:19: [WEB-01 - OPEN] SMT.APP_NSI_PKG.FIRM_TREE_CUR
+p_id_user = 8458 [in], p_code_object = aIncident [in], o_cur = [inout]
+
+28.11 22:23:19:       Rows was return: 1
+
+28.11 22:24:02: [WEB-01 - OPEN] SMT.SMT_NSI2_PKG.NSI_DOC_LIST_CUR
+o_cur = [inout]
+
+28.11 22:24:03:       Rows was return: 11
+
+28.11 22:24:03: [WEB-01 - OPEN] SMT.NSI_PKG.LOC_SER_2_0_CUR
+o_cur = [inout]
+
+28.11 22:24:03:       Rows was return: 130
+
+28.11 22:24:03: [WEB-01 - OPEN] SMT.SMT_NSI2_PKG.NOM_SER_LOC_CUR
+o_cur = [inout], p_kod_ser = 0 [in]
+
+28.11 22:24:03:       Rows was return: 1
+
+28.11 22:24:03: [WEB-01 - EXEC] SMT_ADM_PKG.ASUT_USER_STAT
+p_id_user = 8458 [inout], p_type_s = Вход. Инциденты. [in], p_id_session = 188755 [in], o_Err_Code = [inout], o_Err_Msg = [inout]
+
+28.11 22:24:23: [WEB-01 - EXEC] SMT_ADM_PKG.ASUT_USER_STAT
+p_id_user = 8458 [inout], p_type_s = Выход из ЕСМТ [in], p_id_session = 188755 [in], o_Err_Code = [inout], o_Err_Msg = [inout]
+
+28.11 22:24:23: [WEB-01 - EXEC] SMT_ADM_PKG.ASUT_USER_STAT
+p_id_user = 8458 [inout], p_type_s = Выход. Инциденты. [in], p_id_session = 188755 [in], o_Err_Code = [inout], o_Err_Msg = [inout]
+
+28.11 22:38:13: [WEB-01 - EXEC] SMT.SMT_ADM_PKG.AUTHUSR
+p_login = SuslovAA [in], p_pwd = VIAR1927 [in], p_kod_firm = [inout], p_firm_name = [inout], p_dol_name = [inout], p_user_id = [inout], p_access_pred_id = [inout], p_access_level_name = [inout], p_id_session = [inout], o_Err_Code = [inout], o_Err_Msg = [inout]
+
+28.11 22:38:16: [WEB-01 - OPEN] SMT.ASUT_PERMISSION_PKG.GET_USER_FUNCTIONS
+o_cur = [inout], i_asut_user_id = 8458 [in]
+
+28.11 22:38:16:       Rows was return: 30
+
+28.11 22:38:17: [WEB-01 - OPEN] SMT.U_USERS_ADMIN.U_USER_ADMIN_CUR
+o_cur = [inout], p_user_id = 8458 [in]
+
+28.11 22:38:17:       Rows was return: 42
+
+28.11 22:38:17: [WEB-01 - OPEN] SMT.SMT_NSI_PKG.SMT_NSI_RESPONSIBLE_DPT_CUR
+o_cur = [inout], o_default = 0 [inout]
+
+28.11 22:38:17:       Rows was return: 191
+
+28.11 22:38:17: [WEB-01 - OPEN] SMT.NSI_PKG.REASON_TREE_CUR
+o_cur = [inout]
+
+28.11 22:38:17:       Rows was return: 181
+
+28.11 22:38:17: [WEB-01 - OPEN] SMT.NSI_PKG.NSI_UNIV_CUR
+o_cur = [inout]
+
+28.11 22:38:17:       Rows was return: 227
+
+28.11 22:38:17: [WEB-01 - OPEN] SMT.NSI_PKG.TCH_FULL_LIST_CUR
+o_cur = [inout]
+
+28.11 22:38:18:       Rows was return: 1223
+
+28.11 22:38:18: [WEB-01 - OPEN] SMT.SMT_NSI_PKG.SMT_NSI_DEPOT_PLAIN_CUR
+p_road_kod = 0 [in], o_cur = [inout]
+
+28.11 22:38:23:       Rows was return: 250
+
+28.11 22:38:23: [WEB-01 - OPEN] SMT.NSI_PKG.NSI_STATION_CUR
+o_cur = [inout]
+
+28.11 22:38:24:       Rows was return: 15227
+
+28.11 22:38:24: [WEB-01 - OPEN] SMT.NSI_PKG.NSI_PEREG_CUR
+o_cur = [inout]
+
+28.11 22:38:25:       Rows was return: 5919
+
+28.11 22:38:25: [WEB-01 - OPEN] SMT.NSI_PKG.EQ_MFR_CUR
+o_cur = [inout]
+
+28.11 22:38:25:       Rows was return: 299
+
+28.11 22:38:25: [WEB-01 - OPEN] SMT.SMT_REPORT_PKG.FIRM_TREE_CUR
+p_id_user = 8458 [in], p_code_object = aIncident [in], o_cur = [inout]
+
+28.11 22:38:25:       Rows was return: 277
+
+28.11 22:38:25: [WEB-01 - OPEN] SMT.SMT_NSI_PKG.NSI_ENTER_DEPOT_REASON_CUR
+o_cur = [inout]
+
+28.11 22:38:26:       Rows was return: 21
+
+28.11 22:38:26: [WEB-01 - OPEN] SMT.NSI_PKG.KASANT_STATE_SAFETY_CUR
+o_cur = [inout]
+
+28.11 22:38:26:       Rows was return: 727
+
+28.11 22:38:26: [WEB-01 - OPEN] SMT.NSI_PKG.TCHR_FULL_LIST_CUR
+o_cur = [inout]
+
+28.11 22:38:26:       Rows was return: 265
+
+28.11 22:38:26: [WEB-01 - OPEN] SMT.NSI_PKG.TCHR_LIST_CUR
+p_id_user = 8458 [in], p_code_object = aIncident [in], o_cur = [inout]
+
+28.11 22:38:26:       Rows was return: 266
+
+28.11 22:38:26: [WEB-01 - OPEN] SMT.NSI_PKG.EQ_AGG_TYPE_CUR
+o_cur = [inout]
+
+28.11 22:38:26:       Rows was return: 101
+
+28.11 22:38:34: [WEB-01 - OPEN] SMT.SMT_NSI_PKG.FTP_SETTINGS_CUR
+o_cur = [inout]
+
+28.11 22:38:34:       Rows was return: 1
+
+28.11 22:38:34: [WEB-01 - OPEN] SMT.APP_NSI_PKG.FIRM_TREE_CUR
+p_id_user = 8458 [in], p_code_object = aIncident [in], o_cur = [inout]
+
+28.11 22:38:34:       Rows was return: 88
+
+28.11 22:38:34: [WEB-01 - OPEN] SMT.SMT_NSI2_PKG.NSI_DOC_LIST_CUR
+o_cur = [inout]
+
+28.11 22:38:34:       Rows was return: 11
+
+28.11 22:38:35: [WEB-01 - OPEN] SMT.NSI_PKG.LOC_SER_2_0_CUR
+o_cur = [inout]
+
+28.11 22:38:35:       Rows was return: 130
+
+28.11 22:38:35: [WEB-01 - OPEN] SMT.SMT_NSI2_PKG.NOM_SER_LOC_CUR
+o_cur = [inout], p_kod_ser = 0 [in]
+
+28.11 22:38:35:       Rows was return: 1
+
+28.11 22:38:35: [WEB-01 - EXEC] SMT_ADM_PKG.ASUT_USER_STAT
+p_id_user = 8458 [inout], p_type_s = Вход. Инциденты. [in], p_id_session = 188756 [in], o_Err_Code = [inout], o_Err_Msg = [inout]
+
+28.11 22:47:52: [WEB-01 - OPEN] SMT.INCIDENT2_PKG.INCIDENT_2_0_NLOC_SER_LIST_CUR
+p_date_begin = 27.11.2019 [in], p_date_finish = 29.11.2019 [in], p_show_all = 1 [in], p_relation_type = 0 [in], p_access = 599003561 [in], p_kod_ser = 0 [in], p_nom_sec = -1 [in], p_nom_object = 0 [in], o_cur = [inout]
+
+29.11 05:23:32: [WEB-01 - EXEC] SMT.SMT_ADM_PKG.AUTHUSR
+p_login = SuslovAA [in], p_pwd = VIAR1927 [in], p_kod_firm = [inout], p_firm_name = [inout], p_dol_name = [inout], p_user_id = [inout], p_access_pred_id = [inout], p_access_level_name = [inout], p_id_session = [inout], o_Err_Code = [inout], o_Err_Msg = [inout]
+
+29.11 05:23:33: [WEB-01 - OPEN] SMT.ASUT_PERMISSION_PKG.GET_USER_FUNCTIONS
+o_cur = [inout], i_asut_user_id = 8458 [in]
+
+29.11 05:23:34:       Rows was return: 30
+
+29.11 05:23:35: [WEB-01 - OPEN] SMT.U_USERS_ADMIN.U_USER_ADMIN_CUR
+o_cur = [inout], p_user_id = 8458 [in]
+
+29.11 05:23:35:       Rows was return: 42
+
+29.11 05:23:35: [WEB-01 - OPEN] SMT.SMT_NSI_PKG.SMT_NSI_RESPONSIBLE_DPT_CUR
+o_cur = [inout], o_default = 0 [inout]
+
+29.11 05:24:12: [WEB-01 - EXEC] SMT.SMT_ADM_PKG.AUTHUSR
+p_login = SuslovAA [in], p_pwd = VIAR1927 [in], p_kod_firm = [inout], p_firm_name = [inout], p_dol_name = [inout], p_user_id = [inout], p_access_pred_id = [inout], p_access_level_name = [inout], p_id_session = [inout], o_Err_Code = [inout], o_Err_Msg = [inout]
+
+29.11 05:24:12: [WEB-01 - OPEN] SMT.ASUT_PERMISSION_PKG.GET_USER_FUNCTIONS
+o_cur = [inout], i_asut_user_id = 8458 [in]
+
+29.11 05:24:12:       Rows was return: 30
+
+29.11 05:24:12: [WEB-01 - OPEN] SMT.U_USERS_ADMIN.U_USER_ADMIN_CUR
+o_cur = [inout], p_user_id = 8458 [in]
+
+29.11 05:24:12:       Rows was return: 42
+
+29.11 05:24:12: [WEB-01 - OPEN] SMT.SMT_NSI_PKG.SMT_NSI_RESPONSIBLE_DPT_CUR
+o_cur = [inout], o_default = 0 [inout]
+
+29.11 05:24:12:       Rows was return: 191
+
+29.11 05:24:12: [WEB-01 - OPEN] SMT.NSI_PKG.REASON_TREE_CUR
+o_cur = [inout]
+
+29.11 05:24:12:       Rows was return: 181
+
+29.11 05:24:13: [WEB-01 - OPEN] SMT.NSI_PKG.NSI_UNIV_CUR
+o_cur = [inout]
+
+29.11 05:24:13:       Rows was return: 227
+
+29.11 05:24:13: [WEB-01 - OPEN] SMT.NSI_PKG.TCH_FULL_LIST_CUR
+o_cur = [inout]
+
+29.11 05:24:13:       Rows was return: 1223
+
+29.11 05:24:13: [WEB-01 - OPEN] SMT.SMT_NSI_PKG.SMT_NSI_DEPOT_PLAIN_CUR
+p_road_kod = 0 [in], o_cur = [inout]
+
+29.11 05:24:13:       Rows was return: 250
+
+29.11 05:24:13: [WEB-01 - OPEN] SMT.NSI_PKG.NSI_STATION_CUR
+o_cur = [inout]
+
+29.11 05:24:14:       Rows was return: 15227
+
+29.11 05:24:14: [WEB-01 - OPEN] SMT.NSI_PKG.NSI_PEREG_CUR
+o_cur = [inout]
+
+29.11 05:24:20:       Rows was return: 5919
+
+29.11 05:24:20: [WEB-01 - OPEN] SMT.NSI_PKG.EQ_MFR_CUR
+o_cur = [inout]
+
+29.11 05:24:20:       Rows was return: 299
+
+29.11 05:24:20: [WEB-01 - OPEN] SMT.SMT_REPORT_PKG.FIRM_TREE_CUR
+p_id_user = 8458 [in], p_code_object = aIncident [in], o_cur = [inout]
+
+29.11 05:24:25:       Rows was return: 286
+
+29.11 05:24:25: [WEB-01 - OPEN] SMT.SMT_NSI_PKG.NSI_ENTER_DEPOT_REASON_CUR
+o_cur = [inout]
+
+29.11 05:24:33: ShowAppException TDMMain: < UM-10 > : Ошибка загрузки списка причин захода в депо.
+Unknown error...
+
+29.11 05:24:54: [WEB-01 - EXEC] SMT.SMT_ADM_PKG.AUTHUSR
+p_login = SuslovAA [in], p_pwd = VIAR1927 [in], p_kod_firm = [inout], p_firm_name = [inout], p_dol_name = [inout], p_user_id = [inout], p_access_pred_id = [inout], p_access_level_name = [inout], p_id_session = [inout], o_Err_Code = [inout], o_Err_Msg = [inout]
+
+29.11 05:24:54: [WEB-01 - OPEN] SMT.ASUT_PERMISSION_PKG.GET_USER_FUNCTIONS
+o_cur = [inout], i_asut_user_id = 8458 [in]
+
+29.11 05:24:54:       Rows was return: 30
+
+29.11 05:24:54: [WEB-01 - OPEN] SMT.U_USERS_ADMIN.U_USER_ADMIN_CUR
+o_cur = [inout], p_user_id = 8458 [in]
+
+29.11 05:24:54:       Rows was return: 42
+
+29.11 05:24:54: [WEB-01 - OPEN] SMT.SMT_NSI_PKG.SMT_NSI_RESPONSIBLE_DPT_CUR
+o_cur = [inout], o_default = 0 [inout]
+
+29.11 05:24:54:       Rows was return: 191
+
+29.11 05:24:54: [WEB-01 - OPEN] SMT.NSI_PKG.REASON_TREE_CUR
+o_cur = [inout]
+
+29.11 05:24:54:       Rows was return: 181
+
+29.11 05:24:54: [WEB-01 - OPEN] SMT.NSI_PKG.NSI_UNIV_CUR
+o_cur = [inout]
+
+29.11 05:24:54:       Rows was return: 227
+
+29.11 05:24:54: [WEB-01 - OPEN] SMT.NSI_PKG.TCH_FULL_LIST_CUR
+o_cur = [inout]
+
+29.11 05:24:58:       Rows was return: 1223
+
+29.11 05:24:58: [WEB-01 - OPEN] SMT.SMT_NSI_PKG.SMT_NSI_DEPOT_PLAIN_CUR
+p_road_kod = 0 [in], o_cur = [inout]
+
+29.11 05:24:58:       Rows was return: 250
+
+29.11 05:24:58: [WEB-01 - OPEN] SMT.NSI_PKG.NSI_STATION_CUR
+o_cur = [inout]
+
+29.11 05:24:59:       Rows was return: 15227
+
+29.11 05:24:59: [WEB-01 - OPEN] SMT.NSI_PKG.NSI_PEREG_CUR
+o_cur = [inout]
+
+29.11 05:25:00:       Rows was return: 5919
+
+29.11 05:25:00: [WEB-01 - OPEN] SMT.NSI_PKG.EQ_MFR_CUR
+o_cur = [inout]
+
+29.11 05:25:01:       Rows was return: 299
+
+29.11 05:25:01: [WEB-01 - OPEN] SMT.SMT_REPORT_PKG.FIRM_TREE_CUR
+p_id_user = 8458 [in], p_code_object = aIncident [in], o_cur = [inout]
+
+29.11 05:25:01:       Rows was return: 286
+
+29.11 05:25:01: [WEB-01 - OPEN] SMT.SMT_NSI_PKG.NSI_ENTER_DEPOT_REASON_CUR
+o_cur = [inout]
+
+29.11 05:25:01:       Rows was return: 21
+
+29.11 05:25:01: [WEB-01 - OPEN] SMT.NSI_PKG.KASANT_STATE_SAFETY_CUR
+o_cur = [inout]
+
+29.11 05:25:01:       Rows was return: 727
+
+29.11 05:25:01: [WEB-01 - OPEN] SMT.NSI_PKG.TCHR_FULL_LIST_CUR
+o_cur = [inout]
+
+29.11 05:25:04:       Rows was return: 236
+
+29.11 05:25:04: [WEB-01 - OPEN] SMT.NSI_PKG.TCHR_LIST_CUR
+p_id_user = 8458 [in], p_code_object = aIncident [in], o_cur = [inout]
+
+29.11 05:25:05:       Rows was return: 266
+
+29.11 05:25:05: [WEB-01 - OPEN] SMT.NSI_PKG.EQ_AGG_TYPE_CUR
+o_cur = [inout]
+
+29.11 05:25:05:       Rows was return: 101
+
+29.11 05:25:09: [WEB-01 - OPEN] SMT.SMT_NSI_PKG.FTP_SETTINGS_CUR
+o_cur = [inout]
+
+29.11 05:25:10:       Rows was return: 1
+
+29.11 05:25:10: [WEB-01 - OPEN] SMT.APP_NSI_PKG.FIRM_TREE_CUR
+p_id_user = 8458 [in], p_code_object = aIncident [in], o_cur = [inout]
+
+29.11 05:25:11:       Rows was return: 253
+
+29.11 05:25:11: [WEB-01 - OPEN] SMT.SMT_NSI2_PKG.NSI_DOC_LIST_CUR
+o_cur = [inout]
+
+29.11 05:25:11:       Rows was return: 11
+
+29.11 05:25:11: [WEB-01 - OPEN] SMT.NSI_PKG.LOC_SER_2_0_CUR
+o_cur = [inout]
+
+29.11 05:25:11:       Rows was return: 130
+
+29.11 05:25:11: [WEB-01 - OPEN] SMT.SMT_NSI2_PKG.NOM_SER_LOC_CUR
+o_cur = [inout], p_kod_ser = 0 [in]
+
+29.11 05:25:11:       Rows was return: 1
+
+29.11 05:25:11: [WEB-01 - EXEC] SMT_ADM_PKG.ASUT_USER_STAT
+p_id_user = 8458 [inout], p_type_s = Вход. Инциденты. [in], p_id_session = 188763 [in], o_Err_Code = [inout], o_Err_Msg = [inout]
+
+29.11 12:52:38: [WEB-01 - EXEC] SMT_ADM_PKG.ASUT_USER_STAT
+p_id_user = 8458 [inout], p_type_s = Выход из ЕСМТ [in], p_id_session = 188763 [in], o_Err_Code = [inout], o_Err_Msg = [inout]
+
+29.11 12:52:39: [WEB-01 - EXEC] SMT_ADM_PKG.ASUT_USER_STAT
+p_id_user = 8458 [inout], p_type_s = Выход. Инциденты. [in], p_id_session = 188763 [in], o_Err_Code = [inout], o_Err_Msg = [inout]
+
+29.11 12:52:49: [WEB-01 - EXEC] SMT.SMT_ADM_PKG.AUTHUSR
+p_login = SuslovAA [in], p_pwd = VIAR1927 [in], p_kod_firm = [inout], p_firm_name = [inout], p_dol_name = [inout], p_user_id = [inout], p_access_pred_id = [inout], p_access_level_name = [inout], p_id_session = [inout], o_Err_Code = [inout], o_Err_Msg = [inout]
+
+29.11 12:52:50: [WEB-01 - OPEN] SMT.ASUT_PERMISSION_PKG.GET_USER_FUNCTIONS
+o_cur = [inout], i_asut_user_id = 8458 [in]
+
+29.11 12:52:51:       Rows was return: 30
+
+29.11 12:52:51: [WEB-01 - OPEN] SMT.U_USERS_ADMIN.U_USER_ADMIN_CUR
+o_cur = [inout], p_user_id = 8458 [in]
+
+29.11 12:52:52:       Rows was return: 42
+
+29.11 12:52:52: [WEB-01 - OPEN] SMT.SMT_NSI_PKG.SMT_NSI_RESPONSIBLE_DPT_CUR
+o_cur = [inout], o_default = 0 [inout]
+
+29.11 12:52:58: ShowAppException TDMMain: < UM-1 > : Ошибка загрузки НСИ виновных служб (Анализ).
+Unknown error...
+
+29.11 12:53:10: [WEB-01 - EXEC] SMT.SMT_ADM_PKG.AUTHUSR
+p_login = SuslovAA [in], p_pwd = VIAR1927 [in], p_kod_firm = [inout], p_firm_name = [inout], p_dol_name = [inout], p_user_id = [inout], p_access_pred_id = [inout], p_access_level_name = [inout], p_id_session = [inout], o_Err_Code = [inout], o_Err_Msg = [inout]
+
+29.11 12:53:11: [WEB-01 - OPEN] SMT.ASUT_PERMISSION_PKG.GET_USER_FUNCTIONS
+o_cur = [inout], i_asut_user_id = 8458 [in]
+
+29.11 12:53:11:       Rows was return: 30
+
+29.11 12:53:11: [WEB-01 - OPEN] SMT.U_USERS_ADMIN.U_USER_ADMIN_CUR
+o_cur = [inout], p_user_id = 8458 [in]
+
+29.11 12:53:11:       Rows was return: 42
+
+29.11 12:53:11: [WEB-01 - OPEN] SMT.SMT_NSI_PKG.SMT_NSI_RESPONSIBLE_DPT_CUR
+o_cur = [inout], o_default = 0 [inout]
+
+29.11 12:58:32: [WEB-01 - EXEC] SMT.SMT_ADM_PKG.AUTHUSR
+p_login = SuslovAA [in], p_pwd = VIAR1927 [in], p_kod_firm = [inout], p_firm_name = [inout], p_dol_name = [inout], p_user_id = [inout], p_access_pred_id = [inout], p_access_level_name = [inout], p_id_session = [inout], o_Err_Code = [inout], o_Err_Msg = [inout]
+
+29.11 12:58:32: [WEB-01 - OPEN] SMT.ASUT_PERMISSION_PKG.GET_USER_FUNCTIONS
+o_cur = [inout], i_asut_user_id = 8458 [in]
+
+29.11 12:58:32:       Rows was return: 30
+
+29.11 12:58:32: [WEB-01 - OPEN] SMT.U_USERS_ADMIN.U_USER_ADMIN_CUR
+o_cur = [inout], p_user_id = 8458 [in]
+
+29.11 12:58:32:       Rows was return: 42
+
+29.11 12:58:32: [WEB-01 - OPEN] SMT.SMT_NSI_PKG.SMT_NSI_RESPONSIBLE_DPT_CUR
+o_cur = [inout], o_default = 0 [inout]
+
+29.11 12:58:32:       Rows was return: 191
+
+29.11 12:58:32: [WEB-01 - OPEN] SMT.NSI_PKG.REASON_TREE_CUR
+o_cur = [inout]
+
+29.11 12:58:32:       Rows was return: 181
+
+29.11 12:58:32: [WEB-01 - OPEN] SMT.NSI_PKG.NSI_UNIV_CUR
+o_cur = [inout]
+
+29.11 12:58:33:       Rows was return: 227
+
+29.11 12:58:33: [WEB-01 - OPEN] SMT.NSI_PKG.TCH_FULL_LIST_CUR
+o_cur = [inout]
+
+29.11 12:58:33:       Rows was return: 1223
+
+29.11 12:58:33: [WEB-01 - OPEN] SMT.SMT_NSI_PKG.SMT_NSI_DEPOT_PLAIN_CUR
+p_road_kod = 0 [in], o_cur = [inout]
+
+29.11 12:58:37:       Rows was return: 250
+
+29.11 12:58:37: [WEB-01 - OPEN] SMT.NSI_PKG.NSI_STATION_CUR
+o_cur = [inout]
+
+29.11 12:58:38:       Rows was return: 15227
+
+29.11 12:58:38: [WEB-01 - OPEN] SMT.NSI_PKG.NSI_PEREG_CUR
+o_cur = [inout]
+
+29.11 12:58:39:       Rows was return: 5919
+
+29.11 12:58:39: [WEB-01 - OPEN] SMT.NSI_PKG.EQ_MFR_CUR
+o_cur = [inout]
+
+29.11 12:58:39:       Rows was return: 299
+
+29.11 12:58:39: [WEB-01 - OPEN] SMT.SMT_REPORT_PKG.FIRM_TREE_CUR
+p_id_user = 8458 [in], p_code_object = aIncident [in], o_cur = [inout]
+
+29.11 12:58:40:       Rows was return: 277
+
+29.11 12:58:40: [WEB-01 - OPEN] SMT.SMT_NSI_PKG.NSI_ENTER_DEPOT_REASON_CUR
+o_cur = [inout]
+
+29.11 12:58:45:       Rows was return: 21
+
+29.11 12:58:45: [WEB-01 - OPEN] SMT.NSI_PKG.KASANT_STATE_SAFETY_CUR
+o_cur = [inout]
+
+29.11 12:58:46:       Rows was return: 727
+
+29.11 12:58:46: [WEB-01 - OPEN] SMT.NSI_PKG.TCHR_FULL_LIST_CUR
+o_cur = [inout]
+
+29.11 12:58:46:       Rows was return: 265
+
+29.11 12:58:46: [WEB-01 - OPEN] SMT.NSI_PKG.TCHR_LIST_CUR
+p_id_user = 8458 [in], p_code_object = aIncident [in], o_cur = [inout]
+
+29.11 12:58:47:       Rows was return: 266
+
+29.11 12:58:47: [WEB-01 - OPEN] SMT.NSI_PKG.EQ_AGG_TYPE_CUR
+o_cur = [inout]
+
+29.11 12:58:47:       Rows was return: 101
+
+29.11 12:58:51: [WEB-01 - OPEN] SMT.SMT_NSI_PKG.FTP_SETTINGS_CUR
+o_cur = [inout]
+
+29.11 12:58:51:       Rows was return: 1
+
+29.11 12:58:51: [WEB-01 - OPEN] SMT.APP_NSI_PKG.FIRM_TREE_CUR
+p_id_user = 8458 [in], p_code_object = aIncident [in], o_cur = [inout]
+
+29.11 12:58:51:       Rows was return: 88
+
+29.11 12:58:51: [WEB-01 - OPEN] SMT.SMT_NSI2_PKG.NSI_DOC_LIST_CUR
+o_cur = [inout]
+
+29.11 12:58:51:       Rows was return: 11
+
+29.11 12:58:52: [WEB-01 - OPEN] SMT.NSI_PKG.LOC_SER_2_0_CUR
+o_cur = [inout]
+
+29.11 12:58:52:       Rows was return: 130
+
+29.11 12:58:52: [WEB-01 - OPEN] SMT.SMT_NSI2_PKG.NOM_SER_LOC_CUR
+o_cur = [inout], p_kod_ser = 0 [in]
+
+29.11 12:58:52:       Rows was return: 1
+
+29.11 12:58:52: [WEB-01 - EXEC] SMT_ADM_PKG.ASUT_USER_STAT
+p_id_user = 8458 [inout], p_type_s = Вход. Инциденты. [in], p_id_session = 188790 [in], o_Err_Code = [inout], o_Err_Msg = [inout]
+
+02.12 12:28:02: [WEB-01 - EXEC] SMT_ADM_PKG.ASUT_USER_STAT
+p_id_user = 8458 [inout], p_type_s = Выход из ЕСМТ [in], p_id_session = 188790 [in], o_Err_Code = [inout], o_Err_Msg = [inout]
+
+02.12 12:28:02: [WEB-01 - EXEC] SMT_ADM_PKG.ASUT_USER_STAT
+p_id_user = 8458 [inout], p_type_s = Выход. Инциденты. [in], p_id_session = 188790 [in], o_Err_Code = [inout], o_Err_Msg = [inout]
+
+02.12 12:28:13: [WEB-01 - EXEC] SMT.SMT_ADM_PKG.AUTHUSR
+p_login = SuslovAA [in], p_pwd = VIAR1927 [in], p_kod_firm = [inout], p_firm_name = [inout], p_dol_name = [inout], p_user_id = [inout], p_access_pred_id = [inout], p_access_level_name = [inout], p_id_session = [inout], o_Err_Code = [inout], o_Err_Msg = [inout]
+
+02.12 12:28:13: [WEB-01 - OPEN] SMT.ASUT_PERMISSION_PKG.GET_USER_FUNCTIONS
+o_cur = [inout], i_asut_user_id = 8458 [in]
+
+02.12 12:28:14:       Rows was return: 30
+
+02.12 12:28:14: [WEB-01 - OPEN] SMT.U_USERS_ADMIN.U_USER_ADMIN_CUR
+o_cur = [inout], p_user_id = 8458 [in]
+
+02.12 12:28:19:       Rows was return: 42
+
+02.12 12:28:19: [WEB-01 - OPEN] SMT.SMT_NSI_PKG.SMT_NSI_RESPONSIBLE_DPT_CUR
+o_cur = [inout], o_default = 0 [inout]
+
+02.12 12:28:22:       Rows was return: 250
+
+02.12 12:28:22: [WEB-01 - OPEN] SMT.NSI_PKG.REASON_TREE_CUR
+o_cur = [inout]
+
+02.12 12:28:22:       Rows was return: 181
+
+02.12 12:28:22: [WEB-01 - OPEN] SMT.NSI_PKG.NSI_UNIV_CUR
+o_cur = [inout]
+
+02.12 12:28:22:       Rows was return: 227
+
+02.12 12:28:22: [WEB-01 - OPEN] SMT.NSI_PKG.TCH_FULL_LIST_CUR
+o_cur = [inout]
+
+02.12 12:28:27:       Rows was return: 1223
+
+02.12 12:28:27: [WEB-01 - OPEN] SMT.SMT_NSI_PKG.SMT_NSI_DEPOT_PLAIN_CUR
+p_road_kod = 0 [in], o_cur = [inout]
+
+02.12 12:28:28:       Rows was return: 250
+
+02.12 12:28:28: [WEB-01 - OPEN] SMT.NSI_PKG.NSI_STATION_CUR
+o_cur = [inout]
+
+02.12 12:28:29:       Rows was return: 15227
+
+02.12 12:28:29: [WEB-01 - OPEN] SMT.NSI_PKG.NSI_PEREG_CUR
+o_cur = [inout]
+
+02.12 12:28:30:       Rows was return: 5919
+
+02.12 12:28:30: [WEB-01 - OPEN] SMT.NSI_PKG.EQ_MFR_CUR
+o_cur = [inout]
+
+02.12 12:28:30:       Rows was return: 299
+
+02.12 12:28:30: [WEB-01 - OPEN] SMT.SMT_REPORT_PKG.FIRM_TREE_CUR
+p_id_user = 8458 [in], p_code_object = aIncident [in], o_cur = [inout]
+
+02.12 12:28:30:       Rows was return: 330
+
+02.12 12:28:30: [WEB-01 - OPEN] SMT.SMT_NSI_PKG.NSI_ENTER_DEPOT_REASON_CUR
+o_cur = [inout]
+
+02.12 12:28:30:       Rows was return: 21
+
+02.12 12:28:30: [WEB-01 - OPEN] SMT.NSI_PKG.KASANT_STATE_SAFETY_CUR
+o_cur = [inout]
+
+02.12 12:28:30:       Rows was return: 727
+
+02.12 12:28:30: [WEB-01 - OPEN] SMT.NSI_PKG.TCHR_FULL_LIST_CUR
+o_cur = [inout]
+
+02.12 12:28:30:       Rows was return: 225
+
+02.12 12:28:30: [WEB-01 - OPEN] SMT.NSI_PKG.TCHR_LIST_CUR
+p_id_user = 8458 [in], p_code_object = aIncident [in], o_cur = [inout]
+
+02.12 12:28:30:       Rows was return: 318
+
+02.12 12:28:30: [WEB-01 - OPEN] SMT.NSI_PKG.EQ_AGG_TYPE_CUR
+o_cur = [inout]
+
+02.12 12:28:30:       Rows was return: 101
+
+02.12 13:36:36: [WEB-01 - OPEN] SMT.APP_NSI_PKG.FIRM_TREE_CUR
+p_id_user = 8458 [in], p_code_object = aLocPark [in], o_cur = [inout]
+
+02.12 13:36:36:       Rows was return: 243
+
+02.12 13:36:36: [WEB-01 - OPEN] SMT.NSI_PKG.LOC_SER_2_0_CUR
+o_cur = [inout]
+
+02.12 13:36:36:       Rows was return: 130
+
+02.12 13:36:37: [WEB-01 - OPEN] SMT.NSI_PKG.TCHE_FULL_LIST_CUR
+o_cur = [inout]
+
+02.12 13:36:37:       Rows was return: 154
+
+02.12 13:36:37: [WEB-01 - EXEC] SMT_ADM_PKG.ASUT_USER_STAT
+p_id_user = 8458 [inout], p_type_s = Вход. Парк сервисных локомотивов. [in], p_id_session = 188991 [in], o_Err_Code = [inout], o_Err_Msg = [inout]
+
+02.12 13:36:40: [WEB-01 - OPEN] SMT.SMT_NSI_PKG.FTP_SETTINGS_CUR
+o_cur = [inout]
+
+02.12 13:36:40:       Rows was return: 1
+
+02.12 13:36:40: [WEB-01 - OPEN] SMT.APP_NSI_PKG.FIRM_TREE_CUR
+p_id_user = 8458 [in], p_code_object = aIncident [in], o_cur = [inout]
+
+02.12 13:36:40:       Rows was return: 243
+
+02.12 13:36:40: [WEB-01 - OPEN] SMT.SMT_NSI2_PKG.NSI_DOC_LIST_CUR
+o_cur = [inout]
+
+02.12 13:36:40:       Rows was return: 11
+
+02.12 13:36:41: [WEB-01 - OPEN] SMT.NSI_PKG.LOC_SER_2_0_CUR
+o_cur = [inout]
+
+02.12 13:36:41:       Rows was return: 130
+
+02.12 13:36:41: [WEB-01 - OPEN] SMT.SMT_NSI2_PKG.NOM_SER_LOC_CUR
+o_cur = [inout], p_kod_ser = 0 [in]
+
+02.12 13:36:41:       Rows was return: 1
+
+02.12 13:36:41: [WEB-01 - EXEC] SMT_ADM_PKG.ASUT_USER_STAT
+p_id_user = 8458 [inout], p_type_s = Вход. Инциденты. [in], p_id_session = 188991 [in], o_Err_Code = [inout], o_Err_Msg = [inout]
+
+02.12 13:36:56: [WEB-01 - OPEN] SMT.INCIDENT2_PKG.INCIDENT_2_0_NLOC_SER_LIST_CUR
+p_date_begin = 27.11.2019 [in], p_date_finish = 29.11.2019 [in], p_show_all = 1 [in], p_relation_type = 0 [in], p_access = 599003359 [in], p_kod_ser = 0 [in], p_nom_sec = -1 [in], p_nom_object = 0 [in], o_cur = [inout]
+
+02.12 13:37:04:       Rows was return: 0
+
+02.12 13:37:04: [WEB-01 - OPEN] SMT.INCIDENT2_PKG.INCIDENT_2_0_NLOC_SER_LIST_CUR
+p_date_begin = 27.11.2019 [in], p_date_finish = 29.11.2019 [in], p_show_all = 1 [in], p_relation_type = 1 [in], p_access = 599003359 [in], p_kod_ser = 0 [in], p_nom_sec = -1 [in], p_nom_object = 0 [in], o_cur = [inout]
+
+02.12 13:37:13:       Rows was return: 0
+
+02.12 19:34:06: [WEB-01 - EXEC] SMT_ADM_PKG.ASUT_USER_STAT
+p_id_user = 8458 [inout], p_type_s = Выход из ЕСМТ [in], p_id_session = 188991 [in], o_Err_Code = [inout], o_Err_Msg = [inout]
+
+02.12 19:34:07: [WEB-01 - EXEC] SMT_ADM_PKG.ASUT_USER_STAT
+p_id_user = 8458 [inout], p_type_s = Выход. Инциденты. [in], p_id_session = 188991 [in], o_Err_Code = [inout], o_Err_Msg = [inout]
+
+02.12 19:34:08: [WEB-01 - EXEC] SMT_ADM_PKG.ASUT_USER_STAT
+p_id_user = 8458 [inout], p_type_s = Выход. Парк сервисных локомотивов. [in], p_id_session = 188991 [in], o_Err_Code = [inout], o_Err_Msg = [inout]
+
+02.12 19:34:33: [WEB-01 - EXEC] SMT.SMT_ADM_PKG.AUTHUSR
+p_login = SuslovAA [in], p_pwd = VIAR1927 [in], p_kod_firm = [inout], p_firm_name = [inout], p_dol_name = [inout], p_user_id = [inout], p_access_pred_id = [inout], p_access_level_name = [inout], p_id_session = [inout], o_Err_Code = [inout], o_Err_Msg = [inout]
+
+02.12 19:34:33: [WEB-01 - OPEN] SMT.ASUT_PERMISSION_PKG.GET_USER_FUNCTIONS
+o_cur = [inout], i_asut_user_id = 8458 [in]
+
+02.12 19:34:33:       Rows was return: 30
+
+02.12 19:34:33: [WEB-01 - OPEN] SMT.U_USERS_ADMIN.U_USER_ADMIN_CUR
+o_cur = [inout], p_user_id = 8458 [in]
+
+02.12 19:34:33:       Rows was return: 42
+
+02.12 19:34:33: [WEB-01 - OPEN] SMT.SMT_NSI_PKG.SMT_NSI_RESPONSIBLE_DPT_CUR
+o_cur = [inout], o_default = 0 [inout]
+
+02.12 19:34:33:       Rows was return: 251
+
+02.12 19:34:33: [WEB-01 - OPEN] SMT.NSI_PKG.REASON_TREE_CUR
+o_cur = [inout]
+
+02.12 19:34:33:       Rows was return: 181
+
+02.12 19:34:33: [WEB-01 - OPEN] SMT.NSI_PKG.NSI_UNIV_CUR
+o_cur = [inout]
+
+02.12 19:34:33:       Rows was return: 227
+
+02.12 19:34:33: [WEB-01 - OPEN] SMT.NSI_PKG.TCH_FULL_LIST_CUR
+o_cur = [inout]
+
+02.12 19:34:38:       Rows was return: 1223
+
+02.12 19:34:38: [WEB-01 - OPEN] SMT.SMT_NSI_PKG.SMT_NSI_DEPOT_PLAIN_CUR
+p_road_kod = 0 [in], o_cur = [inout]
+
+02.12 19:34:38:       Rows was return: 250
+
+02.12 19:34:38: [WEB-01 - OPEN] SMT.NSI_PKG.NSI_STATION_CUR
+o_cur = [inout]
+
+02.12 19:34:39:       Rows was return: 15227
+
+02.12 19:34:39: [WEB-01 - OPEN] SMT.NSI_PKG.NSI_PEREG_CUR
+o_cur = [inout]
+
+02.12 19:34:40:       Rows was return: 5919
+
+02.12 19:34:40: [WEB-01 - OPEN] SMT.NSI_PKG.EQ_MFR_CUR
+o_cur = [inout]
+
+02.12 19:34:44:       Rows was return: 299
+
+02.12 19:34:44: [WEB-01 - OPEN] SMT.SMT_REPORT_PKG.FIRM_TREE_CUR
+p_id_user = 8458 [in], p_code_object = aIncident [in], o_cur = [inout]
+
+02.12 19:34:44:       Rows was return: 327
+
+02.12 19:34:44: [WEB-01 - OPEN] SMT.SMT_NSI_PKG.NSI_ENTER_DEPOT_REASON_CUR
+o_cur = [inout]
+
+02.12 19:34:45:       Rows was return: 21
+
+02.12 19:34:45: [WEB-01 - OPEN] SMT.NSI_PKG.KASANT_STATE_SAFETY_CUR
+o_cur = [inout]
+
+02.12 19:34:46:       Rows was return: 727
+
+02.12 19:34:46: [WEB-01 - OPEN] SMT.NSI_PKG.TCHR_FULL_LIST_CUR
+o_cur = [inout]
+
+02.12 19:34:46:       Rows was return: 226
+
+02.12 19:34:46: [WEB-01 - OPEN] SMT.NSI_PKG.TCHR_LIST_CUR
+p_id_user = 8458 [in], p_code_object = aIncident [in], o_cur = [inout]
+
+02.12 19:34:46:       Rows was return: 314
+
+02.12 19:34:46: [WEB-01 - OPEN] SMT.NSI_PKG.EQ_AGG_TYPE_CUR
+o_cur = [inout]
+
+02.12 19:34:46:       Rows was return: 101
+
+02.12 19:34:48: [WEB-01 - OPEN] SMT.SMT_NSI_PKG.FTP_SETTINGS_CUR
+o_cur = [inout]
+
+02.12 19:34:48:       Rows was return: 1
+
+02.12 19:34:48: [WEB-01 - OPEN] SMT.APP_NSI_PKG.FIRM_TREE_CUR
+p_id_user = 8458 [in], p_code_object = aIncident [in], o_cur = [inout]
+
+02.12 19:34:49:       Rows was return: 242
+
+02.12 19:34:49: [WEB-01 - OPEN] SMT.SMT_NSI2_PKG.NSI_DOC_LIST_CUR
+o_cur = [inout]
+
+02.12 19:34:49:       Rows was return: 11
+
+02.12 19:34:49: [WEB-01 - OPEN] SMT.NSI_PKG.LOC_SER_2_0_CUR
+o_cur = [inout]
+
+02.12 19:34:49:       Rows was return: 130
+
+02.12 19:34:49: [WEB-01 - OPEN] SMT.SMT_NSI2_PKG.NOM_SER_LOC_CUR
+o_cur = [inout], p_kod_ser = 0 [in]
+
+02.12 19:34:49:       Rows was return: 1
+
+02.12 19:34:49: [WEB-01 - EXEC] SMT_ADM_PKG.ASUT_USER_STAT
+p_id_user = 8458 [inout], p_type_s = Вход. Инциденты. [in], p_id_session = 189014 [in], o_Err_Code = [inout], o_Err_Msg = [inout]
+
+02.12 19:35:07: [WEB-01 - OPEN] SMT.INCIDENT2_PKG.INCIDENT_2_0_NLOC_SER_LIST_CUR
+p_date_begin = 27.11.2019 [in], p_date_finish = 02.12.2019 [in], p_show_all = 1 [in], p_relation_type = 0 [in], p_access = 599003391 [in], p_kod_ser = 0 [in], p_nom_sec = -1 [in], p_nom_object = 0 [in], o_cur = [inout]
+
+02.12 19:35:33:       Rows was return: 13
+
+02.12 19:35:33: [WEB-01 - OPEN] SMT.INCIDENT2_PKG.INCIDENT_2_0_NLOC_SER_LIST_CUR
+p_date_begin = 27.11.2019 [in], p_date_finish = 02.12.2019 [in], p_show_all = 1 [in], p_relation_type = 1 [in], p_access = 599003391 [in], p_kod_ser = 0 [in], p_nom_sec = -1 [in], p_nom_object = 0 [in], o_cur = [inout]
+
+02.12 19:36:00:       Rows was return: 0
+
+02.12 19:46:05: [WEB-01 - EXEC] SMT_ADM_PKG.ASUT_USER_STAT
+p_id_user = 8458 [inout], p_type_s = Выход из ЕСМТ [in], p_id_session = 189014 [in], o_Err_Code = [inout], o_Err_Msg = [inout]
+
+02.12 19:46:05: [WEB-01 - EXEC] SMT_ADM_PKG.ASUT_USER_STAT
+p_id_user = 8458 [inout], p_type_s = Выход. Инциденты. [in], p_id_session = 189014 [in], o_Err_Code = [inout], o_Err_Msg = [inout]
+
+02.12 19:46:16: [WEB-01 - EXEC] SMT.SMT_ADM_PKG.AUTHUSR
+p_login = SuslovAA [in], p_pwd = VIAR1927 [in], p_kod_firm = [inout], p_firm_name = [inout], p_dol_name = [inout], p_user_id = [inout], p_access_pred_id = [inout], p_access_level_name = [inout], p_id_session = [inout], o_Err_Code = [inout], o_Err_Msg = [inout]
+
+02.12 19:46:16: [WEB-01 - OPEN] SMT.ASUT_PERMISSION_PKG.GET_USER_FUNCTIONS
+o_cur = [inout], i_asut_user_id = 8458 [in]
+
+02.12 19:46:16:       Rows was return: 30
+
+02.12 19:46:17: [WEB-01 - OPEN] SMT.U_USERS_ADMIN.U_USER_ADMIN_CUR
+o_cur = [inout], p_user_id = 8458 [in]
+
+02.12 19:46:17:       Rows was return: 42
+
+02.12 19:46:17: [WEB-01 - OPEN] SMT.SMT_NSI_PKG.SMT_NSI_RESPONSIBLE_DPT_CUR
+o_cur = [inout], o_default = 0 [inout]
+
+02.12 19:46:17:       Rows was return: 251
+
+02.12 19:46:17: [WEB-01 - OPEN] SMT.NSI_PKG.REASON_TREE_CUR
+o_cur = [inout]
+
+02.12 19:46:17:       Rows was return: 181
+
+02.12 19:46:17: [WEB-01 - OPEN] SMT.NSI_PKG.NSI_UNIV_CUR
+o_cur = [inout]
+
+02.12 19:46:17:       Rows was return: 227
+
+02.12 19:46:17: [WEB-01 - OPEN] SMT.NSI_PKG.TCH_FULL_LIST_CUR
+o_cur = [inout]
+
+02.12 19:46:17:       Rows was return: 1223
+
+02.12 19:46:17: [WEB-01 - OPEN] SMT.SMT_NSI_PKG.SMT_NSI_DEPOT_PLAIN_CUR
+p_road_kod = 0 [in], o_cur = [inout]
+
+02.12 19:46:23:       Rows was return: 250
+
+02.12 19:46:23: [WEB-01 - OPEN] SMT.NSI_PKG.NSI_STATION_CUR
+o_cur = [inout]
+
+02.12 19:46:25:       Rows was return: 15227
+
+02.12 19:46:25: [WEB-01 - OPEN] SMT.NSI_PKG.NSI_PEREG_CUR
+o_cur = [inout]
+
+02.12 19:46:27:       Rows was return: 5919
+
+02.12 19:46:27: [WEB-01 - OPEN] SMT.NSI_PKG.EQ_MFR_CUR
+o_cur = [inout]
+
+02.12 19:46:29:       Rows was return: 299
+
+02.12 19:46:29: [WEB-01 - OPEN] SMT.SMT_REPORT_PKG.FIRM_TREE_CUR
+p_id_user = 8458 [in], p_code_object = aIncident [in], o_cur = [inout]
+
+02.12 19:46:29:       Rows was return: 327
+
+02.12 19:46:29: [WEB-01 - OPEN] SMT.SMT_NSI_PKG.NSI_ENTER_DEPOT_REASON_CUR
+o_cur = [inout]
+
+02.12 19:46:29:       Rows was return: 21
+
+02.12 19:46:29: [WEB-01 - OPEN] SMT.NSI_PKG.KASANT_STATE_SAFETY_CUR
+o_cur = [inout]
+
+02.12 19:46:29:       Rows was return: 727
+
+02.12 19:46:29: [WEB-01 - OPEN] SMT.NSI_PKG.TCHR_FULL_LIST_CUR
+o_cur = [inout]
+
+02.12 19:46:32:       Rows was return: 226
+
+02.12 19:46:32: [WEB-01 - OPEN] SMT.NSI_PKG.TCHR_LIST_CUR
+p_id_user = 8458 [in], p_code_object = aIncident [in], o_cur = [inout]
+
+02.12 19:46:32:       Rows was return: 314
+
+02.12 19:46:32: [WEB-01 - OPEN] SMT.NSI_PKG.EQ_AGG_TYPE_CUR
+o_cur = [inout]
+
+02.12 19:46:32:       Rows was return: 101
+
+02.12 19:46:34: [WEB-01 - OPEN] SMT.SMT_NSI_PKG.FTP_SETTINGS_CUR
+o_cur = [inout]
+
+02.12 19:46:35:       Rows was return: 1
+
+02.12 19:46:35: [WEB-01 - OPEN] SMT.APP_NSI_PKG.FIRM_TREE_CUR
+p_id_user = 8458 [in], p_code_object = aIncident [in], o_cur = [inout]
+
+02.12 19:46:35:       Rows was return: 243
+
+02.12 19:46:44: [WEB-01 - OPEN] SMT.SMT_NSI2_PKG.NSI_DOC_LIST_CUR
+o_cur = [inout]
+
+02.12 19:46:44:       Rows was return: 11
+
+02.12 19:46:44: [WEB-01 - OPEN] SMT.NSI_PKG.LOC_SER_2_0_CUR
+o_cur = [inout]
+
+02.12 19:46:47:       Rows was return: 130
+
+02.12 19:46:47: [WEB-01 - OPEN] SMT.SMT_NSI2_PKG.NOM_SER_LOC_CUR
+o_cur = [inout], p_kod_ser = 0 [in]
+
+02.12 19:46:48:       Rows was return: 1
+
+02.12 19:46:48: [WEB-01 - EXEC] SMT_ADM_PKG.ASUT_USER_STAT
+p_id_user = 8458 [inout], p_type_s = Вход. Инциденты. [in], p_id_session = 189015 [in], o_Err_Code = [inout], o_Err_Msg = [inout]
+
+02.12 19:47:08: [WEB-01 - EXEC] SMT_ADM_PKG.ASUT_USER_STAT
+p_id_user = 8458 [inout], p_type_s = Выход из ЕСМТ [in], p_id_session = 189015 [in], o_Err_Code = [inout], o_Err_Msg = [inout]
+
+02.12 19:47:08: [WEB-01 - EXEC] SMT_ADM_PKG.ASUT_USER_STAT
+p_id_user = 8458 [inout], p_type_s = Выход. Инциденты. [in], p_id_session = 189015 [in], o_Err_Code = [inout], o_Err_Msg = [inout]
+
+02.12 19:47:18: [WEB-01 - EXEC] SMT.SMT_ADM_PKG.AUTHUSR
+p_login = SuslovAA [in], p_pwd = VIAR1927 [in], p_kod_firm = [inout], p_firm_name = [inout], p_dol_name = [inout], p_user_id = [inout], p_access_pred_id = [inout], p_access_level_name = [inout], p_id_session = [inout], o_Err_Code = [inout], o_Err_Msg = [inout]
+
+02.12 19:47:19: [WEB-01 - OPEN] SMT.ASUT_PERMISSION_PKG.GET_USER_FUNCTIONS
+o_cur = [inout], i_asut_user_id = 8458 [in]
+
+02.12 19:47:19:       Rows was return: 30
+
+02.12 19:47:19: [WEB-01 - OPEN] SMT.U_USERS_ADMIN.U_USER_ADMIN_CUR
+o_cur = [inout], p_user_id = 8458 [in]
+
+02.12 19:47:19:       Rows was return: 42
+
+02.12 19:47:19: [WEB-01 - OPEN] SMT.SMT_NSI_PKG.SMT_NSI_RESPONSIBLE_DPT_CUR
+o_cur = [inout], o_default = 0 [inout]
+
+02.12 19:47:19:       Rows was return: 251
+
+02.12 19:47:19: [WEB-01 - OPEN] SMT.NSI_PKG.REASON_TREE_CUR
+o_cur = [inout]
+
+02.12 19:47:19:       Rows was return: 181
+
+02.12 19:47:19: [WEB-01 - OPEN] SMT.NSI_PKG.NSI_UNIV_CUR
+o_cur = [inout]
+
+02.12 19:47:19:       Rows was return: 227
+
+02.12 19:47:19: [WEB-01 - OPEN] SMT.NSI_PKG.TCH_FULL_LIST_CUR
+o_cur = [inout]
+
+02.12 19:47:19:       Rows was return: 1223
+
+02.12 19:47:19: [WEB-01 - OPEN] SMT.SMT_NSI_PKG.SMT_NSI_DEPOT_PLAIN_CUR
+p_road_kod = 0 [in], o_cur = [inout]
+
+02.12 19:47:25:       Rows was return: 250
+
+02.12 19:47:25: [WEB-01 - OPEN] SMT.NSI_PKG.NSI_STATION_CUR
+o_cur = [inout]
+
+02.12 19:47:25:       Rows was return: 15227
+
+02.12 19:47:25: [WEB-01 - OPEN] SMT.NSI_PKG.NSI_PEREG_CUR
+o_cur = [inout]
+
+02.12 19:47:26:       Rows was return: 5919
+
+02.12 19:47:26: [WEB-01 - OPEN] SMT.NSI_PKG.EQ_MFR_CUR
+o_cur = [inout]
+
+02.12 19:47:26:       Rows was return: 299
+
+02.12 19:47:26: [WEB-01 - OPEN] SMT.SMT_REPORT_PKG.FIRM_TREE_CUR
+p_id_user = 8458 [in], p_code_object = aIncident [in], o_cur = [inout]
+
+02.12 19:47:26:       Rows was return: 327
+
+02.12 19:47:26: [WEB-01 - OPEN] SMT.SMT_NSI_PKG.NSI_ENTER_DEPOT_REASON_CUR
+o_cur = [inout]
+
+02.12 19:47:26:       Rows was return: 21
+
+02.12 19:47:26: [WEB-01 - OPEN] SMT.NSI_PKG.KASANT_STATE_SAFETY_CUR
+o_cur = [inout]
+
+02.12 19:47:26:       Rows was return: 727
+
+02.12 19:47:26: [WEB-01 - OPEN] SMT.NSI_PKG.TCHR_FULL_LIST_CUR
+o_cur = [inout]
+
+02.12 19:47:26:       Rows was return: 226
+
+02.12 19:47:26: [WEB-01 - OPEN] SMT.NSI_PKG.TCHR_LIST_CUR
+p_id_user = 8458 [in], p_code_object = aIncident [in], o_cur = [inout]
+
+02.12 19:47:26:       Rows was return: 314
+
+02.12 19:47:26: [WEB-01 - OPEN] SMT.NSI_PKG.EQ_AGG_TYPE_CUR
+o_cur = [inout]
+
+02.12 19:47:30:       Rows was return: 101
+
+02.12 19:47:33: [WEB-01 - OPEN] SMT.SMT_NSI_PKG.FTP_SETTINGS_CUR
+o_cur = [inout]
+
+02.12 19:47:33:       Rows was return: 1
+
+02.12 19:47:33: [WEB-01 - OPEN] SMT.APP_NSI_PKG.FIRM_TREE_CUR
+p_id_user = 8458 [in], p_code_object = aIncident [in], o_cur = [inout]
+
+02.12 19:47:33:       Rows was return: 243
+
+02.12 20:24:00: [WEB-01 - EXEC] SMT.SMT_ADM_PKG.AUTHUSR
+p_login = SuslovAA [in], p_pwd = VIAR1927 [in], p_kod_firm = [inout], p_firm_name = [inout], p_dol_name = [inout], p_user_id = [inout], p_access_pred_id = [inout], p_access_level_name = [inout], p_id_session = [inout], o_Err_Code = [inout], o_Err_Msg = [inout]
+
+02.12 20:24:04: [WEB-01 - OPEN] SMT.ASUT_PERMISSION_PKG.GET_USER_FUNCTIONS
+o_cur = [inout], i_asut_user_id = 8458 [in]
+
+02.12 20:24:04:       Rows was return: 30
+
+02.12 20:24:05: [WEB-01 - OPEN] SMT.U_USERS_ADMIN.U_USER_ADMIN_CUR
+o_cur = [inout], p_user_id = 8458 [in]
+
+02.12 20:24:05:       Rows was return: 42
+
+02.12 20:24:05: [WEB-01 - OPEN] SMT.SMT_NSI_PKG.SMT_NSI_RESPONSIBLE_DPT_CUR
+o_cur = [inout], o_default = 0 [inout]
+
+02.12 20:24:05:       Rows was return: 251
+
+02.12 20:24:05: [WEB-01 - OPEN] SMT.NSI_PKG.REASON_TREE_CUR
+o_cur = [inout]
+
+02.12 20:24:05:       Rows was return: 181
+
+02.12 20:24:05: [WEB-01 - OPEN] SMT.NSI_PKG.NSI_UNIV_CUR
+o_cur = [inout]
+
+02.12 20:24:05:       Rows was return: 227
+
+02.12 20:24:05: [WEB-01 - OPEN] SMT.NSI_PKG.TCH_FULL_LIST_CUR
+o_cur = [inout]
+
+02.12 20:24:06:       Rows was return: 1223
+
+02.12 20:24:06: [WEB-01 - OPEN] SMT.SMT_NSI_PKG.SMT_NSI_DEPOT_PLAIN_CUR
+p_road_kod = 0 [in], o_cur = [inout]
+
+02.12 20:24:06:       Rows was return: 250
+
+02.12 20:24:06: [WEB-01 - OPEN] SMT.NSI_PKG.NSI_STATION_CUR
+o_cur = [inout]
+
+02.12 20:24:07:       Rows was return: 15227
+
+02.12 20:24:07: [WEB-01 - OPEN] SMT.NSI_PKG.NSI_PEREG_CUR
+o_cur = [inout]
+
+02.12 20:24:10:       Rows was return: 5919
+
+02.12 20:24:10: [WEB-01 - OPEN] SMT.NSI_PKG.EQ_MFR_CUR
+o_cur = [inout]
+
+02.12 20:24:10:       Rows was return: 299
+
+02.12 20:24:10: [WEB-01 - OPEN] SMT.SMT_REPORT_PKG.FIRM_TREE_CUR
+p_id_user = 8458 [in], p_code_object = aIncident [in], o_cur = [inout]
+
+02.12 20:24:11:       Rows was return: 237
+
+02.12 20:24:11: [WEB-01 - OPEN] SMT.SMT_NSI_PKG.NSI_ENTER_DEPOT_REASON_CUR
+o_cur = [inout]
+
+02.12 20:24:11:       Rows was return: 21
+
+02.12 20:24:11: [WEB-01 - OPEN] SMT.NSI_PKG.KASANT_STATE_SAFETY_CUR
+o_cur = [inout]
+
+02.12 20:24:11:       Rows was return: 727
+
+02.12 20:24:11: [WEB-01 - OPEN] SMT.NSI_PKG.TCHR_FULL_LIST_CUR
+o_cur = [inout]
+
+02.12 20:24:12:       Rows was return: 226
+
+02.12 20:24:12: [WEB-01 - OPEN] SMT.NSI_PKG.TCHR_LIST_CUR
+p_id_user = 8458 [in], p_code_object = aIncident [in], o_cur = [inout]
+
+02.12 20:24:12:       Rows was return: 225
+
+02.12 20:24:12: [WEB-01 - OPEN] SMT.NSI_PKG.EQ_AGG_TYPE_CUR
+o_cur = [inout]
+
+02.12 20:24:12:       Rows was return: 101
+
+02.12 20:24:15: [WEB-01 - OPEN] SMT.SMT_NSI_PKG.FTP_SETTINGS_CUR
+o_cur = [inout]
+
+02.12 20:24:15:       Rows was return: 1
+
+02.12 20:24:15: [WEB-01 - OPEN] SMT.APP_NSI_PKG.FIRM_TREE_CUR
+p_id_user = 8458 [in], p_code_object = aIncident [in], o_cur = [inout]
+
+02.12 20:24:15:       Rows was return: 243
+
+02.12 20:24:20: [WEB-01 - OPEN] SMT.SMT_NSI2_PKG.NSI_DOC_LIST_CUR
+o_cur = [inout]
+
+02.12 20:24:21:       Rows was return: 11
+
+02.12 20:24:21: [WEB-01 - OPEN] SMT.NSI_PKG.LOC_SER_2_0_CUR
+o_cur = [inout]
+
+02.12 20:24:21:       Rows was return: 130
+
+02.12 20:24:21: [WEB-01 - OPEN] SMT.SMT_NSI2_PKG.NOM_SER_LOC_CUR
+o_cur = [inout], p_kod_ser = 0 [in]
+
+02.12 20:24:21:       Rows was return: 1
+
+02.12 20:24:21: [WEB-01 - EXEC] SMT_ADM_PKG.ASUT_USER_STAT
+p_id_user = 8458 [inout], p_type_s = Вход. Инциденты. [in], p_id_session = 189017 [in], o_Err_Code = [inout], o_Err_Msg = [inout]
+
+02.12 20:24:42: [WEB-01 - OPEN] SMT.APP_NSI_PKG.FIRM_TREE_CUR
+p_id_user = 8458 [in], p_code_object = aLocPark [in], o_cur = [inout]
+
+02.12 20:24:42:       Rows was return: 243
+
+02.12 20:24:42: [WEB-01 - OPEN] SMT.NSI_PKG.LOC_SER_2_0_CUR
+o_cur = [inout]
+
+02.12 20:24:42:       Rows was return: 130
+
+02.12 20:24:42: [WEB-01 - OPEN] SMT.NSI_PKG.TCHE_FULL_LIST_CUR
+o_cur = [inout]
+
+02.12 20:24:42:       Rows was return: 154
+
+02.12 20:24:42: [WEB-01 - EXEC] SMT_ADM_PKG.ASUT_USER_STAT
+p_id_user = 8458 [inout], p_type_s = Вход. Парк сервисных локомотивов. [in], p_id_session = 189017 [in], o_Err_Code = [inout], o_Err_Msg = [inout]
+
+02.12 20:24:47: [WEB-01 - EXEC] SMT_ADM_PKG.ASUT_USER_STAT
+p_id_user = 8458 [inout], p_type_s = Выход из ЕСМТ [in], p_id_session = 189017 [in], o_Err_Code = [inout], o_Err_Msg = [inout]
+
+02.12 20:24:47: [WEB-01 - EXEC] SMT_ADM_PKG.ASUT_USER_STAT
+p_id_user = 8458 [inout], p_type_s = Выход. Инциденты. [in], p_id_session = 189017 [in], o_Err_Code = [inout], o_Err_Msg = [inout]
+
+02.12 20:24:47: [WEB-01 - EXEC] SMT_ADM_PKG.ASUT_USER_STAT
+p_id_user = 8458 [inout], p_type_s = Выход. Парк сервисных локомотивов. [in], p_id_session = 189017 [in], o_Err_Code = [inout], o_Err_Msg = [inout]
+
+02.12 20:25:00: [WEB-01 - EXEC] SMT.SMT_ADM_PKG.AUTHUSR
+p_login = SuslovAA [in], p_pwd = VIAR1927 [in], p_kod_firm = [inout], p_firm_name = [inout], p_dol_name = [inout], p_user_id = [inout], p_access_pred_id = [inout], p_access_level_name = [inout], p_id_session = [inout], o_Err_Code = [inout], o_Err_Msg = [inout]
+
+02.12 20:25:00: [WEB-01 - OPEN] SMT.ASUT_PERMISSION_PKG.GET_USER_FUNCTIONS
+o_cur = [inout], i_asut_user_id = 8458 [in]
+
+02.12 20:25:00:       Rows was return: 30
+
+02.12 20:25:01: [WEB-01 - OPEN] SMT.U_USERS_ADMIN.U_USER_ADMIN_CUR
+o_cur = [inout], p_user_id = 8458 [in]
+
+02.12 20:25:01:       Rows was return: 42
+
+02.12 20:25:01: [WEB-01 - OPEN] SMT.SMT_NSI_PKG.SMT_NSI_RESPONSIBLE_DPT_CUR
+o_cur = [inout], o_default = 0 [inout]
+
+02.12 20:25:01:       Rows was return: 251
+
+02.12 20:25:01: [WEB-01 - OPEN] SMT.NSI_PKG.REASON_TREE_CUR
+o_cur = [inout]
+
+02.12 20:25:01:       Rows was return: 181
+
+02.12 20:25:01: [WEB-01 - OPEN] SMT.NSI_PKG.NSI_UNIV_CUR
+o_cur = [inout]
+
+02.12 20:25:01:       Rows was return: 227
+
+02.12 20:25:01: [WEB-01 - OPEN] SMT.NSI_PKG.TCH_FULL_LIST_CUR
+o_cur = [inout]
+
+02.12 20:25:04:       Rows was return: 1223
+
+02.12 20:25:04: [WEB-01 - OPEN] SMT.SMT_NSI_PKG.SMT_NSI_DEPOT_PLAIN_CUR
+p_road_kod = 0 [in], o_cur = [inout]
+
+02.12 20:25:07:       Rows was return: 250
+
+02.12 20:25:07: [WEB-01 - OPEN] SMT.NSI_PKG.NSI_STATION_CUR
+o_cur = [inout]
+
+02.12 20:25:08:       Rows was return: 15227
+
+02.12 20:25:08: [WEB-01 - OPEN] SMT.NSI_PKG.NSI_PEREG_CUR
+o_cur = [inout]
+
+02.12 20:25:13:       Rows was return: 5919
+
+02.12 20:25:13: [WEB-01 - OPEN] SMT.NSI_PKG.EQ_MFR_CUR
+o_cur = [inout]
+
+02.12 20:25:16:       Rows was return: 299
+
+02.12 20:25:16: [WEB-01 - OPEN] SMT.SMT_REPORT_PKG.FIRM_TREE_CUR
+p_id_user = 8458 [in], p_code_object = aIncident [in], o_cur = [inout]
+
+02.12 20:25:16:       Rows was return: 237
+
+02.12 20:25:16: [WEB-01 - OPEN] SMT.SMT_NSI_PKG.NSI_ENTER_DEPOT_REASON_CUR
+o_cur = [inout]
+
+02.12 20:25:16:       Rows was return: 21
+
+02.12 20:25:16: [WEB-01 - OPEN] SMT.NSI_PKG.KASANT_STATE_SAFETY_CUR
+o_cur = [inout]
+
+02.12 20:25:16:       Rows was return: 727
+
+02.12 20:25:16: [WEB-01 - OPEN] SMT.NSI_PKG.TCHR_FULL_LIST_CUR
+o_cur = [inout]
+
+02.12 20:25:22:       Rows was return: 226
+
+02.12 20:25:22: [WEB-01 - OPEN] SMT.NSI_PKG.TCHR_LIST_CUR
+p_id_user = 8458 [in], p_code_object = aIncident [in], o_cur = [inout]
+
+02.12 20:25:22:       Rows was return: 225
+
+02.12 20:25:22: [WEB-01 - OPEN] SMT.NSI_PKG.EQ_AGG_TYPE_CUR
+o_cur = [inout]
+
+02.12 20:25:22:       Rows was return: 101
+
+02.12 20:25:25: [WEB-01 - OPEN] SMT.APP_NSI_PKG.FIRM_TREE_CUR
+p_id_user = 8458 [in], p_code_object = aLocPark [in], o_cur = [inout]
+
+02.12 20:25:25:       Rows was return: 243
+
+02.12 20:25:25: [WEB-01 - OPEN] SMT.NSI_PKG.LOC_SER_2_0_CUR
+o_cur = [inout]
+
+02.12 20:25:26:       Rows was return: 130
+
+02.12 20:25:26: [WEB-01 - OPEN] SMT.NSI_PKG.TCHE_FULL_LIST_CUR
+o_cur = [inout]
+
+02.12 20:25:26:       Rows was return: 154
+
+02.12 20:25:26: [WEB-01 - EXEC] SMT_ADM_PKG.ASUT_USER_STAT
+p_id_user = 8458 [inout], p_type_s = Вход. Парк сервисных локомотивов. [in], p_id_session = 189018 [in], o_Err_Code = [inout], o_Err_Msg = [inout]
+
+02.12 20:25:28: [WEB-01 - OPEN] SMT.SMT_NSI_PKG.FTP_SETTINGS_CUR
+o_cur = [inout]
+
+02.12 20:25:28:       Rows was return: 1
+
+02.12 20:25:28: [WEB-01 - OPEN] SMT.APP_NSI_PKG.FIRM_TREE_CUR
+p_id_user = 8458 [in], p_code_object = aIncident [in], o_cur = [inout]
+
+02.12 20:25:28:       Rows was return: 243
+
+02.12 20:25:28: [WEB-01 - OPEN] SMT.SMT_NSI2_PKG.NSI_DOC_LIST_CUR
+o_cur = [inout]
+
+02.12 20:25:28:       Rows was return: 11
+
+02.12 20:25:29: [WEB-01 - OPEN] SMT.NSI_PKG.LOC_SER_2_0_CUR
+o_cur = [inout]
+
+02.12 20:25:29:       Rows was return: 130
+
+02.12 20:25:29: [WEB-01 - OPEN] SMT.SMT_NSI2_PKG.NOM_SER_LOC_CUR
+o_cur = [inout], p_kod_ser = 0 [in]
+
+02.12 20:25:29:       Rows was return: 1
+
+02.12 20:25:29: [WEB-01 - EXEC] SMT_ADM_PKG.ASUT_USER_STAT
+p_id_user = 8458 [inout], p_type_s = Вход. Инциденты. [in], p_id_session = 189018 [in], o_Err_Code = [inout], o_Err_Msg = [inout]
+
+02.12 20:25:33: [WEB-01 - EXEC] SMT_ADM_PKG.ASUT_USER_STAT
+p_id_user = 8458 [inout], p_type_s = Выход из ЕСМТ [in], p_id_session = 189018 [in], o_Err_Code = [inout], o_Err_Msg = [inout]
+
+02.12 20:25:33: [WEB-01 - EXEC] SMT_ADM_PKG.ASUT_USER_STAT
+p_id_user = 8458 [inout], p_type_s = Выход. Инциденты. [in], p_id_session = 189018 [in], o_Err_Code = [inout], o_Err_Msg = [inout]
+
+02.12 20:25:33: [WEB-01 - EXEC] SMT_ADM_PKG.ASUT_USER_STAT
+p_id_user = 8458 [inout], p_type_s = Выход. Парк сервисных локомотивов. [in], p_id_session = 189018 [in], o_Err_Code = [inout], o_Err_Msg = [inout]
+
+02.12 20:25:43: [WEB-01 - EXEC] SMT.SMT_ADM_PKG.AUTHUSR
+p_login = SuslovAA [in], p_pwd = VIAR1927 [in], p_kod_firm = [inout], p_firm_name = [inout], p_dol_name = [inout], p_user_id = [inout], p_access_pred_id = [inout], p_access_level_name = [inout], p_id_session = [inout], o_Err_Code = [inout], o_Err_Msg = [inout]
+
+02.12 20:25:43: [WEB-01 - OPEN] SMT.ASUT_PERMISSION_PKG.GET_USER_FUNCTIONS
+o_cur = [inout], i_asut_user_id = 8458 [in]
+
+02.12 20:25:43:       Rows was return: 30
+
+02.12 20:25:44: [WEB-01 - OPEN] SMT.U_USERS_ADMIN.U_USER_ADMIN_CUR
+o_cur = [inout], p_user_id = 8458 [in]
+
+02.12 20:25:44:       Rows was return: 42
+
+02.12 20:25:44: [WEB-01 - OPEN] SMT.SMT_NSI_PKG.SMT_NSI_RESPONSIBLE_DPT_CUR
+o_cur = [inout], o_default = 0 [inout]
+
+02.12 20:25:44:       Rows was return: 251
+
+02.12 20:25:44: [WEB-01 - OPEN] SMT.NSI_PKG.REASON_TREE_CUR
+o_cur = [inout]
+
+02.12 20:25:44:       Rows was return: 181
+
+02.12 20:25:44: [WEB-01 - OPEN] SMT.NSI_PKG.NSI_UNIV_CUR
+o_cur = [inout]
+
+02.12 20:25:44:       Rows was return: 227
+
+02.12 20:25:44: [WEB-01 - OPEN] SMT.NSI_PKG.TCH_FULL_LIST_CUR
+o_cur = [inout]
+
+02.12 20:25:49:       Rows was return: 1223
+
+02.12 20:25:49: [WEB-01 - OPEN] SMT.SMT_NSI_PKG.SMT_NSI_DEPOT_PLAIN_CUR
+p_road_kod = 0 [in], o_cur = [inout]
+
+02.12 20:25:55:       Rows was return: 250
+
+02.12 20:25:55: [WEB-01 - OPEN] SMT.NSI_PKG.NSI_STATION_CUR
+o_cur = [inout]
+
+02.12 20:25:56:       Rows was return: 15227
+
+02.12 20:25:56: [WEB-01 - OPEN] SMT.NSI_PKG.NSI_PEREG_CUR
+o_cur = [inout]
+
+02.12 20:25:56:       Rows was return: 5919
+
+02.12 20:25:56: [WEB-01 - OPEN] SMT.NSI_PKG.EQ_MFR_CUR
+o_cur = [inout]
+
+02.12 20:25:57:       Rows was return: 299
+
+02.12 20:25:57: [WEB-01 - OPEN] SMT.SMT_REPORT_PKG.FIRM_TREE_CUR
+p_id_user = 8458 [in], p_code_object = aIncident [in], o_cur = [inout]
+
+02.12 20:25:57:       Rows was return: 237
+
+02.12 20:25:57: [WEB-01 - OPEN] SMT.SMT_NSI_PKG.NSI_ENTER_DEPOT_REASON_CUR
+o_cur = [inout]
+
+02.12 20:25:57:       Rows was return: 21
+
+02.12 20:25:57: [WEB-01 - OPEN] SMT.NSI_PKG.KASANT_STATE_SAFETY_CUR
+o_cur = [inout]
+
+02.12 20:25:57:       Rows was return: 727
+
+02.12 20:25:57: [WEB-01 - OPEN] SMT.NSI_PKG.TCHR_FULL_LIST_CUR
+o_cur = [inout]
+
+02.12 20:25:57:       Rows was return: 226
+
+02.12 20:25:57: [WEB-01 - OPEN] SMT.NSI_PKG.TCHR_LIST_CUR
+p_id_user = 8458 [in], p_code_object = aIncident [in], o_cur = [inout]
+
+02.12 20:25:57:       Rows was return: 225
+
+02.12 20:25:57: [WEB-01 - OPEN] SMT.NSI_PKG.EQ_AGG_TYPE_CUR
+o_cur = [inout]
+
+02.12 20:25:57:       Rows was return: 101
+
+02.12 20:26:00: [WEB-01 - OPEN] SMT.SMT_NSI_PKG.FTP_SETTINGS_CUR
+o_cur = [inout]
+
+02.12 20:26:00:       Rows was return: 1
+
+02.12 20:26:00: [WEB-01 - OPEN] SMT.APP_NSI_PKG.FIRM_TREE_CUR
+p_id_user = 8458 [in], p_code_object = aIncident [in], o_cur = [inout]
+
+02.12 20:26:00:       Rows was return: 243
+
+02.12 20:26:25: [WEB-01 - EXEC] SMT.SMT_ADM_PKG.AUTHUSR
+p_login = SuslovAA [in], p_pwd = VIAR1927 [in], p_kod_firm = [inout], p_firm_name = [inout], p_dol_name = [inout], p_user_id = [inout], p_access_pred_id = [inout], p_access_level_name = [inout], p_id_session = [inout], o_Err_Code = [inout], o_Err_Msg = [inout]
+
+02.12 20:26:26: [WEB-01 - OPEN] SMT.ASUT_PERMISSION_PKG.GET_USER_FUNCTIONS
+o_cur = [inout], i_asut_user_id = 8458 [in]
+
+02.12 20:26:26:       Rows was return: 30
+
+02.12 20:26:26: [WEB-01 - OPEN] SMT.U_USERS_ADMIN.U_USER_ADMIN_CUR
+o_cur = [inout], p_user_id = 8458 [in]
+
+02.12 20:26:26:       Rows was return: 42
+
+02.12 20:26:26: [WEB-01 - OPEN] SMT.SMT_NSI_PKG.SMT_NSI_RESPONSIBLE_DPT_CUR
+o_cur = [inout], o_default = 0 [inout]
+
+02.12 20:26:26:       Rows was return: 251
+
+02.12 20:26:26: [WEB-01 - OPEN] SMT.NSI_PKG.REASON_TREE_CUR
+o_cur = [inout]
+
+02.12 20:26:26:       Rows was return: 181
+
+02.12 20:26:26: [WEB-01 - OPEN] SMT.NSI_PKG.NSI_UNIV_CUR
+o_cur = [inout]
+
+02.12 20:26:26:       Rows was return: 227
+
+02.12 20:26:26: [WEB-01 - OPEN] SMT.NSI_PKG.TCH_FULL_LIST_CUR
+o_cur = [inout]
+
+02.12 20:26:26:       Rows was return: 1223
+
+02.12 20:26:26: [WEB-01 - OPEN] SMT.SMT_NSI_PKG.SMT_NSI_DEPOT_PLAIN_CUR
+p_road_kod = 0 [in], o_cur = [inout]
+
+02.12 20:26:26:       Rows was return: 250
+
+02.12 20:26:26: [WEB-01 - OPEN] SMT.NSI_PKG.NSI_STATION_CUR
+o_cur = [inout]
+
+02.12 20:26:27:       Rows was return: 15227
+
+02.12 20:26:27: [WEB-01 - OPEN] SMT.NSI_PKG.NSI_PEREG_CUR
+o_cur = [inout]
+
+02.12 20:26:31:       Rows was return: 5919
+
+02.12 20:26:31: [WEB-01 - OPEN] SMT.NSI_PKG.EQ_MFR_CUR
+o_cur = [inout]
+
+02.12 20:26:37:       Rows was return: 299
+
+02.12 20:26:37: [WEB-01 - OPEN] SMT.SMT_REPORT_PKG.FIRM_TREE_CUR
+p_id_user = 8458 [in], p_code_object = aIncident [in], o_cur = [inout]
+
+02.12 20:26:37:       Rows was return: 237
+
+02.12 20:26:37: [WEB-01 - OPEN] SMT.SMT_NSI_PKG.NSI_ENTER_DEPOT_REASON_CUR
+o_cur = [inout]
+
+0: Log file rotated to 02_12_19_20_26_37.log

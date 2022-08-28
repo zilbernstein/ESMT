@@ -1,0 +1,66 @@
+object frmVersion: TfrmVersion
+  Left = 0
+  Top = 0
+  Caption = #1054' '#1087#1088#1086#1075#1088#1072#1084#1084#1077
+  ClientHeight = 453
+  ClientWidth = 658
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  PixelsPerInch = 96
+  TextHeight = 13
+  object cxVerticalGrid1: TcxVerticalGrid
+    Left = 0
+    Top = 0
+    Width = 658
+    Height = 453
+    BorderStyle = cxcbsNone
+    Align = alClient
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -13
+    Font.Name = 'Tahoma'
+    Font.Pitch = fpFixed
+    Font.Style = []
+    LookAndFeel.Kind = lfUltraFlat
+    LookAndFeel.NativeStyle = False
+    LookAndFeel.SkinName = 'Caramel'
+    OptionsView.CellAutoHeight = True
+    OptionsView.CellEndEllipsis = True
+    OptionsView.ShowEditButtons = ecsbAlways
+    OptionsView.GridLineColor = 11842740
+    OptionsView.RowHeaderWidth = 314
+    OptionsBehavior.AlwaysShowEditor = False
+    OptionsBehavior.GoToNextCellOnEnter = True
+    OptionsBehavior.GoToNextCellOnTab = True
+    ParentFont = False
+    Styles.Background = DMMain.cxStyle138
+    Styles.Content = DMMain.cxStyle119
+    Styles.Category = DMMain.stlCategory
+    Styles.Header = DMMain.stlHeaser11
+    TabOrder = 0
+    Version = 1
+    object cxVerticalGrid1CategoryRow5: TcxCategoryRow
+      Properties.Caption = #1045#1057#1052#1058
+      ID = 0
+      ParentID = -1
+      Index = 0
+      Version = 1
+    end
+    object cxVerticalGrid1EditorRow8: TcxEditorRow
+      Options.ShowExpandButton = False
+      Properties.Caption = #1042#1077#1088#1089#1080#1103
+      Properties.ImageIndex = 12
+      Properties.DataBinding.ValueType = 'String'
+      Properties.Value = Null
+      ID = 1
+      ParentID = -1
+      Index = 1
+      Version = 1
+    end
+  end
+end
